@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Tristan-Kainama
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning HTML, CSS, and Javascript.
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: You can just chat me, my socials are:
 Instagram: tristankainama
 Youtube: Tristan Kainama
